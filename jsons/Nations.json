@@ -1,38 +1,28 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+"name": "Cotland",
+		"leaderName": "Copelton Manhanshell",
+		"adjective": ["Cotlandic"],
 		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"personality": "Copelton Manhanshell",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "startIntroPart1": "President Copelton, we salute you and the proud Cotlandian civilization!, All the way in North Napatolia, We Were colonized and then Freed from the British dominion in the year 1761, then cleansed and reborn after a terrible civil war, Cotland was ready to Love Live and Save. At the height of its power, triumphant after two terrible world wars, The Federal Republic of Cotland, a land of Children, Love, opportunities, optimism and determination, has remained humble across nations, To Love Children and raise them.",
+        "startIntroPart2": "President Copelton, will you show to the world the legitimacy of the Cotlandic way of life, and spread the flame of love and friendliness to all mankind? Will your new empire shine through the ages of history?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+        "declaringWar": "Your hatred and Despise for children leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our pacifism and Love for children for weakness. You shall regret this!",
+		"defeated": "The day...is yours. We hope you spare the children atleast...",
+		"introduction": "On behalf of the Men, women and children of Cotland, I, Copelton of Cotland welcome you.",
+		"neutralHello": "How are the children?",
+		"hateHello": "We hope your people won't grow to hate us.",
+		"tradeRequest": "We present our humble offering, Is the following trade of interest to you?",
+
+        "outerColor": [ 28,51,119],
+        "innerColor": [255,255,255],
+
+        "favoredReligion": "Christianity",
+		"uniqueName": "Love for the Young",
+		"uniques": ["[+3] Happiness <for every {[1 new population]} [in all cities]>", "[+10]% Happiness for every new public school [in all cities]"] 
+		"cities": ["Copelton","Oreston","Prenton","Windsor","Westfield","Eastfield","Drentvillie","Maranton","South Port","Northren Farms",
+			"Southren Farms","St. Manschellen","Kawanii","West Port","Nola","Toola","Georgeston","New Port","Destiny Land","Moore Island",
+			"Cleverland","Eneward","Lolita","New Windsor","Nami City"],
+        "spyNames": ["Cooper", "Mansenchell", "Danny", "Careman", "Prof. Illina", "Sally", "Nena", "Kini", "Kino", "Kukimi"]
+	},
