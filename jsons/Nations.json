@@ -20,7 +20,7 @@
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Love for the Young",
-		"uniques": ["[+3] Happiness <for every {[1 new population]} [in all cities]>", "[+10]% Happiness for every new public school [in all cities]"] 
+		"uniques": ["[+3] Happiness <for every {[1 new population]} [in all cities]>", "[+10]% Happiness for every new public school [in all cities]", "[+15] Culture for every new public school building [in all cities]"] 
 		"cities": ["Copelton","Oreston","Prenton","Windsor","Westfield","Eastfield","Drentvillie","Maranton","South Port","Northren Farms",
 			"Southren Farms","St. Manschellen","Kawanii","West Port","Nola","Toola","Georgeston","New Port","Destiny Land","Moore Island",
 			"Cleverland","Eneward","Lolita","New Windsor","Nami City"],
